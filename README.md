@@ -15,6 +15,7 @@ Gerbang Pengaturan Ulang (Reset Gate)
 Bayangkan gerbang pembaruan seperti filter yang memutuskan informasi apa dari hari sebelumnya yang perlu kamu bawa ke hari berikutnya. Misalnya, jika kamu belajar sesuatu yang sangat penting kemarin, gerbang ini akan memastikan kamu tidak melupakannya hari ini.
 
 Contoh: Jika kamu belajar cara memasak makanan baru kemarin, kamu ingin memastikan bahwa informasi ini tetap ada di memori kamu hari ini.
+
 2. Gerbang Pengaturan Ulang (Reset Gate)
 Gerbang pengaturan ulang adalah seperti tombol reset yang membantu kamu memutuskan seberapa banyak informasi lama yang perlu dilupakan atau digantikan dengan informasi baru. Ini berguna ketika kamu ingin belajar sesuatu yang baru dan mungkin tidak relevan dengan apa yang kamu ketahui sebelumnya.
 
