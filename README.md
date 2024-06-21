@@ -1,7 +1,7 @@
-# Final Project Studi Independent di Startup Campus Batch 6
+## Final Project Studi Independent di Startup Campus Batch 6
 Seluruh dataset & hasil project hanya digunakan sebagai sarana pembelajaran & tidak mencerminkan nilai yang sebenarnya. Mohon tidak menjadikan **hasil** project ini sebagai referensi/rekomendasi.
-# BBRI = Bank Bintang Raya Indonesia dan BBTN = Bank Tabungan Nuswantara
-# Kenapa menggunakan GRU?
+## BBRI = Bank Bintang Raya Indonesia dan BBTN = Bank Tabungan Nuswantara
+## Kenapa menggunakan GRU?
 Bayangkan kamu memiliki sebuah buku catatan di mana kamu mencatat informasi penting dari hari ke hari. Setiap halaman dalam buku catatan ini adalah seperti "memori" harianmu. Sekarang, bagaimana kamu memutuskan informasi apa yang perlu dicatat dan informasi apa yang tidak terlalu penting?
 
 Apa itu GRU?
